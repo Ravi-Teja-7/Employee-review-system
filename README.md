@@ -1,4 +1,4 @@
-
+admin password - admin
 
 # Employee-Review-System
 A full stack, app used for reviewing employee.

@@ -1,5 +1,7 @@
 admin password - admin
 
+live link:- https://employeereview-rtr.onrender.com/
+
 # Employee-Review-System
 A full stack, app used for reviewing employee.
 
